@@ -1,1 +1,3 @@
-# Data-analytics
+# Data-analytics 
+
+# python , numpy , pandas, matplotlib 
